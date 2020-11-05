@@ -1,10 +1,10 @@
 Package: fib
 Type: Package
 Title: Fibonacci sequence
-Version: 0.1.0
+Version: 0.1.1
 Author: Viktor Almqvist
 Maintainer: Viktor Almqvist <viktor.almqvist@slu.se>
-Description: Returns the first x numbers in the Fibonacci sequence
+Description: Returns the first x numbers in the Fibonacci sequence, and allows for checking how many Fibonacci numbers exist below a given integer
 License: GNU General Public License
 Encoding: UTF-8
 LazyData: true
